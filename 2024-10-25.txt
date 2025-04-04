@@ -1,0 +1,15 @@
+23:57:13 [MGC]-initActivity[ (SourceFile:40)#onActivityStarted ] com.wondershare.drfoneapp.ui.activity.UserCenterActivity@7aedc39  onActivityStarted
+23:57:17 [MGC]-initActivity[ (SourceFile:40)#onActivityStarted ] com.wondershare.drfoneapp.ui.activity.DrFoneSettingActivity@b40065b  onActivityStarted
+23:57:17 [MGC]-initActivity[ (SourceFile:40)#onActivityStopped ] com.wondershare.drfoneapp.NewMainActivity@bc12a25  onActivityStopped
+23:57:20 [MGC]-initActivity[ (SourceFile:40)#onActivityStopped ] com.wondershare.drfoneapp.ui.activity.UserCenterActivity@7aedc39  onActivityStopped
+23:57:26 [MGC]-initActivity[ (SourceFile:40)#onActivityStarted ] com.wondershare.drfoneapp.ui.activity.DFLoginActivity@48acc7c  onActivityStarted
+23:57:27 [MGC]-initActivity[ (SourceFile:40)#onActivityStopped ] com.wondershare.drfoneapp.ui.activity.DrFoneSettingActivity@b40065b  onActivityStopped
+23:57:29 [MGC]-initActivity[ (SourceFile:40)#onActivityStarted ] com.wondershare.drfoneapp.ui.activity.UserCenterActivity@7aedc39  onActivityStarted
+23:57:32 [MGC]-initActivity[ (SourceFile:40)#onActivityStarted ] com.wondershare.drfoneapp.ui.activity.DrFoneSettingActivity@f8f31c1  onActivityStarted
+23:57:32 [MGC]-initActivity[ (SourceFile:40)#onActivityStopped ] com.wondershare.drfoneapp.ui.activity.DFLoginActivity@48acc7c  onActivityStopped
+23:57:38 [MGC]-initActivity[ (SourceFile:40)#onActivityStarted ] com.wondershare.secretspace.ui.activity.SecretSpacePwdSettingActivity@5c96259  onActivityStarted
+23:57:38 [MGC]-initActivity[ (SourceFile:40)#onActivityStopped ] com.wondershare.drfoneapp.ui.activity.UserCenterActivity@7aedc39  onActivityStopped
+23:57:39 [MGC]-initActivity[ (SourceFile:40)#onActivityStopped ] com.wondershare.drfoneapp.ui.activity.DrFoneSettingActivity@f8f31c1  onActivityStopped
+23:57:52 [MGC]-initActivity[ (SourceFile:40)#onActivityStarted ] com.wondershare.drfoneapp.ui.activity.DrFoneSettingActivity@f8f31c1  onActivityStarted
+23:58:02 [MGC]-initActivity[ (SourceFile:40)#onActivityStopped ] com.wondershare.secretspace.ui.activity.SecretSpacePwdSettingActivity@5c96259  onActivityStopped
+23:58:07 [MGC]-initActivity[ (SourceFile:40)#onActivityStopped ] com.wondershare.drfoneapp.ui.activity.DrFoneSettingActivity@f8f31c1  onActivityStopped
